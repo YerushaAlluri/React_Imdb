@@ -1,7 +1,17 @@
 .App {
   text-align: center;
+  background-color: black;
 }
-
+.logo{
+ padding-bottom: 30px; 
+ text-align: start;
+ color: yellow;
+ font-size: xx-large;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.search-bar{
+  text-align: right;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

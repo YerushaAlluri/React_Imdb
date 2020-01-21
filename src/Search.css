@@ -1,0 +1,44 @@
+/* .container {
+    text-align: center;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+  } */
+  /* ul{
+    list-style-type:none;
+  }
+i{
+  size: 100px;
+}
+/* .text-box{
+  width: 100%;
+} */
+/* .row{
+  align-content: center;
+} */
+.option{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.btn btn-info{
+  color: black;
+}  
+
+
+
+.full-screen-modal-plan{
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 99999; /* Sit on top */
+  left: 100px;
+  right: 200px;
+  top: 50px;
+  min-width: 100%; /* Full width */
+  min-height: 100vh; /* Full height */
+  overflow: auto; /* Enable scroll*/
+  background-color:white;
+  transition: opacity 1s linear;
+  height: fit-content;
+  
+}
